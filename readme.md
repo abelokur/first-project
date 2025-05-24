@@ -24,3 +24,7 @@ H1 Шпаргалка markdown
 ```bash
 ls -al
 ```
+
+```sql
+select * from parus
+```
